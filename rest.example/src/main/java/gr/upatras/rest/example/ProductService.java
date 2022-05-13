@@ -16,12 +16,12 @@ int ix = 1000;
 */
 public ProductService() {
 super();
-products.add(new Product(100, "Mobile", "CLK98123", 9000.00, 6));
-products.add(new Product(101, "Smart TV", "LGST09167", 60000.00, 3));
-products.add(new Product(102, "Washing Machine", "38753BK9", 9000.00, 7));
-products.add(new Product(103, "Laptop", "LHP29OCP", 24000.00, 1));
-products.add(new Product(104, "Air Conditioner", "ACLG66721", 30000.00, 5));
-products.add(new Product(105, "Refrigerator ", "12WP9087", 10000.00, 4));
+products.add(new Product(100, "Tablet", "CKR98123", 9000.00, 6));
+products.add(new Product(101, "Electric Car", "CLDT09157", 60000.00, 3));
+products.add(new Product(102, "Lights", "48766BL9", 9000.00, 7));
+products.add(new Product(103, "Laptop", "TRG79ODD", 24000.00, 1));
+products.add(new Product(104, "Smartphone", "ALPG66547", 30000.00, 5));
+products.add(new Product(105, "Camera", "12WP9087", 10000.00, 4));
 }
 /**
 * returns a list of product
